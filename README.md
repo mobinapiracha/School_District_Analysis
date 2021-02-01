@@ -10,4 +10,4 @@ It is self explanatory that when we change our dataset, our results will also ch
 
 ### How is the district summary affected?
 
-![](Pictures/Module_PyCitySchools/district_summary_module.png)
+![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
