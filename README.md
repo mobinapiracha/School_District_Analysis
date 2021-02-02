@@ -11,10 +11,6 @@ It is self explanatory that when we change our dataset, our results will also ch
 ### How is the district summary affected?
 The following are the screenshots of the two district summary. 
 
-
-
-
-
 Module District Summary              
 ![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
 Challenge District Summary 
@@ -34,7 +30,7 @@ Thomas High School Modified Results
 ![](Pictures/Challenge_PyCitySchools/THS_modified_data.PNG)
 
 
-We see that total students, school budget, per capita budget, size and spending ranges are the same for obvious reasons as that data was never altered, rather only school grades. We can see changes in the school grades data. We see that average math score has changed slightly from 83.41 which was the original score to 83.35 the modified score, a very small decrease of 0.06. We see that reading The original average reading score was around 83.85 comapred to the modified score of approximately 83.90, a 0.05 point decrease.The math passing percentage fell from 93.27 to 93.18, a 0.09 % change, reading passing percentage fell from 97.3% to 97.01% an almost 0.3% decrease. Lastly overall passing fell from 90.95% to 90.63% relative to other metrics a large 0.23% decrease. We see that scores have decreased, meaning on average 9th grade students performed better than 10th,11th and 12th grade students, but may also show that higher avergae scores are indicative of some sort of academic dishonesty claims which were made. 
+We see that total students, school budget, per capita budget, size and spending ranges are the same for obvious reasons as that data was never altered, rather only school grades. We can see changes in the school grades data. We see that average math score has changed slightly from 83.41 which was the original score to 83.35 the modified score, a very small decrease of 0.06. We see that reading The original average reading score was around 83.85 compared to the modified score of approximately 83.90, a 0.05 point increase.The math passing percentage fell from 93.27 to 93.18, a 0.09 % change, reading passing percentage fell from 97.3% to 97.01% an almost 0.3% decrease. It is also odd that average reading scores relative to original analysis have increased but percentage passing for reading fell.  Lastly overall passing fell from 90.95% to 90.63% relative to other metrics a large 0.23% decrease. We see that most scores have decreased, meaning on average 9th grade students performed better than 10th, 11th and 12th grade students except for in reading scores. but may also show that higher scores and passing percentages are indicative of some sort of academic dishonesty claims which were made. 
 
 ## How does changing 9th grade scores affect Thomas's performance relative to other schools?
 
@@ -47,3 +43,4 @@ Modified Top 5 Schools by Overall Passing Percentage
 ![](Pictures/Challenge_PyCitySchools/top_schools_challenge.PNG)
 
 
+We find that Thomas High School was ranked 2nd among top 5 schools in the Original Top 5 Overall Passing Percentage. Thomas High School managed to retain its 2nd position. In the original analysis, it was much closer to Canbrera High School having an overall passing percentage only 0.2% percentage less than Canbrera which has 91.33% compared to Thomas's 90.95%. However, after the modification it is 0.5% less than Canbrera. Thomas now has an overall passing percentage of 90.63% compared to its previous 90.95%. It's overall passing percentage reduction almost lead to Thomas High almost falling to 3rd place where Griffin High has an overall passing percentage of 90.59% , a very small difference of 0.04%. Originally, Thomas High School had an Average Math and Reading scores of 83.41 and 83.85 respectively, compared to Canbrera's Average Math and Reading scores of 83.06 and 83.97 and Griffin High's Average Math and Reading scores of 83.351 and 83.82. After the modification Thomas's Average Math slightly fell to 83.350, 0.001 lower than Griffin's and Average Reading rose to 83.89. In general the changes in scores had little effect on Thomas's performance relative to other schools as the changes were small. 
