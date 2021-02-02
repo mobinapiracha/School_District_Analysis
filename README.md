@@ -11,7 +11,8 @@ It is self explanatory that when we change our dataset, our results will also ch
 ### How is the district summary affected?
 The following are the screenshots of the two district summary. 
 
-                    Module District Summary 
+                    #### Module District Summary
+                    
 ![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
-                    Challenge District Summary
+                    #### Challenge District Summary 
 ![](Pictures/Challenge_PyCitySchools/district_summary_challenge.PNG)
