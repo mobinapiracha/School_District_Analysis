@@ -49,13 +49,21 @@ We find that Thomas High School was ranked 2nd among top 5 schools in the Origin
 
 ### Math and reading scores by grade
 
-We know that after making changes to 9th grade results from Thomas High School, we know that the significant difference between the two analysis will be that in the Math scores and Reading Scores by grade analysis, 9th grade Thomas High School grades will have NAN value, since those results changed after reports of academic dishonesty. 
+We know that after making changes to 9th grade results from Thomas High School the significant difference between the two analysis will be that in the Math scores and Reading Scores by grade analysis, 9th grade Thomas High School grades will have nan value, since those results changed after reports of academic dishonesty. 
 
-Original Math and Reading Scores by Grade 
+Original Math Scores by Grade 
 ![](Pictures/Module_PyCitySchools/math_scores_by_grade_module.PNG)
 
-Modified Math and Reading Scores by Grade 
+Modified Math Scores by Grade 
 ![](Pictures/Challenge_PyCitySchools/math_scores_by_grade_challenge.PNG)
+
+As we can see, 9th grade results for Average Math score for Thomas was 83.6 and after the modification it is now a nan value. In fact, the original 9th grade results were similar to Pena High School which also had 83.6. 
+
+Original Reading Scores by Grade 
+![](Pictures/Module_PyCitySchools/reading_scores_by_grade_module.PNG)
+
+Modified Reading Scores by Grade 
+![](Pictures/Challenge_PyCitySchools/reading_scores_by_grade_challenge.PNG)
 
 ### Scores by school spending
 ### Scores by school size
