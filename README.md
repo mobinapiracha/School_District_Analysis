@@ -29,7 +29,7 @@ We know that in the modified dataset we only made changes to 9th grade results i
 The folowing are screenshots of the two district summaries. 
 
 Thomas High School Original Results 
-
+![](Pictures/Module_PyCitySchools/THS_original_data.PNG)
 Thomas High School Modified Results 
 ![](Pictures/Challenge_PyCitySchools/THS_modified_data.PNG)
 
