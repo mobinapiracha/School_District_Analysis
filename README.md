@@ -44,3 +44,21 @@ Modified Top 5 Schools by Overall Passing Percentage
 
 
 We find that Thomas High School was ranked 2nd among top 5 schools in the Original Top 5 Overall Passing Percentage. Thomas High School managed to retain its 2nd position. In the original analysis, it was much closer to Canbrera High School having an overall passing percentage only 0.2% percentage less than Canbrera which has 91.33% compared to Thomas's 90.95%. However, after the modification it is 0.5% less than Canbrera. Thomas now has an overall passing percentage of 90.63% compared to its previous 90.95%. It's overall passing percentage reduction almost lead to Thomas High almost falling to 3rd place where Griffin High has an overall passing percentage of 90.59% , a very small difference of 0.04%. Originally, Thomas High School had an Average Math and Reading scores of 83.41 and 83.85 respectively, compared to Canbrera's Average Math and Reading scores of 83.06 and 83.97 and Griffin High's Average Math and Reading scores of 83.351 and 83.82. After the modification Thomas's Average Math slightly fell to 83.350, 0.001 lower than Griffin's and Average Reading rose to 83.89. In general the changes in scores had little effect on Thomas's performance relative to other schools as the changes were small. 
+
+### How does replacing the ninth-grade scores affect the following:
+
+### Math and reading scores by grade
+
+We know that after making changes to 9th grade results from Thomas High School, we know that the significant difference between the two analysis will be that in the Math scores and Reading Scores by grade analysis, 9th grade Thomas High School grades will have NAN value, since those results changed after reports of academic dishonesty. 
+
+Original Math and Reading Scores by Grade 
+![](Pictures/Module_PyCitySchools/math_scores_by_grade_module.PNG)
+
+Modified Math and Reading Scores by Grade 
+![](Pictures/Challenge_PyCitySchools/math_scores_by_grade_challenge.PNG)
+
+### Scores by school spending
+### Scores by school size
+
+
+Scores by school type
