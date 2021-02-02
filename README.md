@@ -11,6 +11,10 @@ It is self explanatory that when we change our dataset, our results will also ch
 ### How is the district summary affected?
 The following are the screenshots of the two district summary. 
 
+
+
+
+
 Module District Summary              
 ![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
 Challenge District Summary 
@@ -18,5 +22,14 @@ Challenge District Summary
 
 Immediately after making changes to the School District Dataset after reports of academic dishonesty from 9th grade students at Thomas High School, we see changes in key metrics in the district summary between original analysis and the modified analysis which excludes grades of 9th grade students at Thomas High School. In the modified district summary, compared to the original we see a 0.1 decrease in average math scores from 79 to 78.9 while average reading scores remain the same at 81.9. The percentage passing math falls by 0.2% from 75% to 74.8% and percentage reading falls by 0.3% from 86% to 85.7% after the modification. The overall passing percentage for the modified summary fell by 0.1% from 65% to 64.9%. Therefore, there is a small impact of the modifications as we do see very slight changes in all metrics of between 0.1-0.3 points. 
 
-### How is the school summary affected
+### How is the school summary affected?
+
+We know that in the modified dataset we only made changes to 9th grade results in Thomas High School. Therefore, we know any changes to the school summary may only come from changes in results in the Thomas High School results. Therefore, I will display the original Thomas High School results and the modified results that reflect changes following the reports of academic dishonesty in the 9th grade results. 
+
 The folowing are screenshots of the two district summaries. 
+
+Thomas High School Original Results 
+
+Thomas High School Modified Results 
+![](Pictures/Challenge_PyCitySchools/THS_modified_data.PNG)
+
