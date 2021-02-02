@@ -11,9 +11,9 @@ It is self explanatory that when we change our dataset, our results will also ch
 ### How is the district summary affected?
 The following are the screenshots of the two district summary. 
 
-Module District Summary              
+#### Module District Summary              
 ![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
-Challenge District Summary 
+#### Challenge District Summary 
 ![](Pictures/Challenge_PyCitySchools/district_summary_challenge.PNG)
 
 Immediately after making changes to the School District Dataset after reports of academic dishonesty from 9th grade students at Thomas High School, we see changes in key metrics in the district summary between original analysis and the modified analysis which excludes grades of 9th grade students at Thomas High School. In the modified district summary, compared to the original we see a 0.1 decrease in average math scores from 79 to 78.9 while average reading scores remain the same at 81.9. The percentage passing math falls by 0.2% from 75% to 74.8% and percentage reading falls by 0.3% from 86% to 85.7% after the modification. The overall passing percentage for the modified summary fell by 0.1% from 65% to 64.9%. Therefore, there is a small impact of the modifications as we do see very slight changes in all metrics of between 0.1-0.3 points. 
@@ -24,9 +24,9 @@ We know that in the modified dataset we only made changes to 9th grade results i
 
 The folowing are screenshots of original and modified summaries of Thomas High School. 
 
-Thomas High School Original Results 
+#### Thomas High School Original Results 
 ![](Pictures/Module_PyCitySchools/THS_original_data.PNG)
-Thomas High School Modified Results 
+#### Thomas High School Modified Results 
 ![](Pictures/Challenge_PyCitySchools/THS_modified_data.PNG)
 
 
@@ -36,10 +36,10 @@ We see that total students, school budget, per capita budget, size and spending 
 
 As we know from above, the changes to the 9th grade results means that Thomas High School's grades and passing percentages were slightly impacted. Therefore, it might be insightful to see how significantly this change impacted Thomas High School's performance relative to other schools. Let's take a look at the top 5 schools by overall passing percentage. 
 
-Original Top 5 Schools by Overall Passing Percentage 
+#### Original Top 5 Schools by Overall Passing Percentage 
 ![](Pictures/Module_PyCitySchools/top_schools_module.PNG)
 
-Modified Top 5 Schools by Overall Passing Percentage 
+#### Modified Top 5 Schools by Overall Passing Percentage 
 ![](Pictures/Challenge_PyCitySchools/top_schools_challenge.PNG)
 
 
@@ -57,7 +57,7 @@ We know that after making changes to 9th grade results from Thomas High School t
 #### Modified Math Scores by Grade 
 ![](Pictures/Challenge_PyCitySchools/math_scores_by_grade_challenge.PNG)
 
-As we can see, 9th grade results for Average Math score for Thomas was 83.6 and after the modification it is now a nan value. In fact, the original 9th grade results were similar to Pena High School which also had 83.6. 
+As we can see, 9th grade results for Average Math score for Thomas was 83.6 and after the modification it is now a nan value. In fact, the original 9th grade average math results were similar to Pena High School which also had 83.6, the joint second highest average math score. Otherwise 10th, 11th and 12th grade results remain unchanged at 83.1, 83.5 and 83.5.
 
 #### Original Reading Scores by Grade 
 ![](Pictures/Module_PyCitySchools/reading_scores_by_grade_module.PNG)
@@ -65,7 +65,17 @@ As we can see, 9th grade results for Average Math score for Thomas was 83.6 and 
 #### Modified Reading Scores by Grade 
 ![](Pictures/Challenge_PyCitySchools/reading_scores_by_grade_challenge.PNG)
 
+Similarly, for the 9th grade reading scores we have a value of 83.7 in the original analysis and after the modifications we have nan values while values for 10th, 11th and 12th remain the same at 84.3, 83.6 and 83.8. 
+
 ### Scores by school spending
+
+#### Original Scores by Spending
+![](Pictures/Module_PyCitySchools/scores_by_spending_module.PNG)
+
+#### Modified Scores by Spending
+![](Pictures/Challenge_PyCitySchools/scores_by_spending_challenge.PNG)
+
+
 ### Scores by school size
 
 
