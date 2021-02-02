@@ -26,10 +26,24 @@ Immediately after making changes to the School District Dataset after reports of
 
 We know that in the modified dataset we only made changes to 9th grade results in Thomas High School. Therefore, we know any changes to the school summary may only come from changes in results in the Thomas High School results. Therefore, I will display the original Thomas High School results and the modified results that reflect changes following the reports of academic dishonesty in the 9th grade results. 
 
-The folowing are screenshots of the two district summaries. 
+The folowing are screenshots of original and modified summaries of Thomas High School. 
 
 Thomas High School Original Results 
 ![](Pictures/Module_PyCitySchools/THS_original_data.PNG)
 Thomas High School Modified Results 
 ![](Pictures/Challenge_PyCitySchools/THS_modified_data.PNG)
+
+
+We see that total students, school budget, per capita budget, size and spending ranges are the same for obvious reasons as that data was never altered, rather only school grades. We can see changes in the school grades data. We see that average math score has changed slightly from 83.41 which was the original score to 83.35 the modified score, a very small decrease of 0.06. We see that reading The original average reading score was around 83.85 comapred to the modified score of approximately 83.90, a 0.05 point decrease.The math passing percentage fell from 93.27 to 93.18, a 0.09 % change, reading passing percentage fell from 97.3% to 97.01% an almost 0.3% decrease. Lastly overall passing fell from 90.95% to 90.63% relative to other metrics a large 0.23% decrease. We see that scores have decreased, meaning on average 9th grade students performed better than 10th,11th and 12th grade students, but may also show that higher avergae scores are indicative of some sort of academic dishonesty claims which were made. 
+
+## How does changing 9th grade scores affect Thomas's performance relative to other schools?
+
+As we know from above, the changes to the 9th grade results means that Thomas High School's grades and passing percentages were slightly impacted. Therefore, it might be insightful to see how significantly this change impacted Thomas High School's performance relative to other schools. Let's take a look at the top 5 schools by overall passing percentage. 
+
+Original Top 5 Schools by Overall Passing Percentage 
+![](Pictures/Module_PyCitySchools/top_schools_module.PNG)
+
+Modified Top 5 Schools by Overall Passing Percentage 
+![](Pictures/Challenge_PyCitySchools/top_schools_challenge.PNG)
+
 
