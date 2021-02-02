@@ -94,3 +94,11 @@ If there is any impact on school size, it will be in the medium size schools as 
 
 #### Modified Scores by School Type
 ![](Pictures/Challenge_PyCitySchools/scores_by_type_challenge.PNG)
+
+There are no significant changes at one decimal place or integer values. Changes to Thomas High School, which is a charter school were significant enough to impact the charter school metrics. 
+
+### Summary 
+
+In this School District Analysis, we analyzed cleaned and reported results using the school and student data. Our detailed analysis is in the School District Analysis jupyter notebook calculated metrics such as student count, school count, school budget, per student budget, average math score, average reading score, percentage passing for math, percentage passing for reading and overall percentage passing. We used these metrics and created sub categories of our analysis calculating our metrics for each school, finding out the top and bottom schools by overall passing percentage. We created new variables such as spending ranges and school size range. Comparing schools we calculated our reading and math scores by grade level, scores by spending ranges, scores by school size, school type. 
+
+However, after conducting this school district analysis we found out that due to academic dis
