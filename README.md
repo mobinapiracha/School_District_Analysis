@@ -75,7 +75,7 @@ Similarly, for the 9th grade reading scores we have a value of 83.7 in the origi
 #### Modified Scores by Spending
 ![](Pictures/Challenge_PyCitySchools/scores_by_spending_challenge.PNG)
 
-
+The impact on scores by school spending will depend on the spending range of Thomas High School. We know from the above Thomas High School summary that the spending range for Thomas High School is 630-644 so any impact may only be on grades in that spending range.  
 ### Scores by school size
 
 
