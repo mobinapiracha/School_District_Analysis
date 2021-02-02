@@ -12,3 +12,4 @@ It is self explanatory that when we change our dataset, our results will also ch
 We are doing this analysis again. 
 
 ![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
+![](Pictures/Challenge_PyCitySchools/district_summary_challenge.PNG)
