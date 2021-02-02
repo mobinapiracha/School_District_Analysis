@@ -9,7 +9,9 @@ In our first PyCitySchools Analysis, we simply clean, organize and analyze the d
 It is self explanatory that when we change our dataset, our results will also change. Therefore, we will compare how changes in Thomas High Schools 9th grade results has ultamitely affected our results. 
 
 ### How is the district summary affected?
-We are doing this analysis again. 
+The following are the screenshots of the two district summary. 
 
+                    Module District Summary 
 ![](Pictures/Module_PyCitySchools/district_summary_module.PNG)
+                    Challenge District Summary
 ![](Pictures/Challenge_PyCitySchools/district_summary_challenge.PNG)
